@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PersonInterceptor {
+namespace SimpleInterceptor {
 
     public class Person {
 

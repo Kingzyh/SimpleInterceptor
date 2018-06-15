@@ -1,7 +1,8 @@
 ﻿using Castle.Core.Interceptor;
 using System;
 
-namespace PersonInterceptor {
+namespace SimpleInterceptor {
+
     internal class PersonInterceptor : StandardInterceptor {
 
         protected override void PreProceed(IInvocation invocation) {
